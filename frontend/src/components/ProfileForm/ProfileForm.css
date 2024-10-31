@@ -1,0 +1,15 @@
+.profile label{
+    font-size: 1.6em;
+    margin: 20px;
+    margin-bottom: 40px;
+}
+
+
+.main.main-profile{
+    height: 520px;
+}
+
+.main.main-profile .small-text{
+    font-size: 1em;
+    margin: 20px;
+}
